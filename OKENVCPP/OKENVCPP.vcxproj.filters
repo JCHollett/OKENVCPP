@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Solved">
+      <UniqueIdentifier>{6cc20f99-8719-4edf-b98a-1297f42830d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="macros.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Current\OKENVCPP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Zamka\kattismath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\aaah\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\alphabetspam\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Apaxians\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\arithmetic_sequence\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Bela\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Bijele\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\BookingARoom\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\DetailedDifferences\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\DiceCup\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\erase_secure\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\ESTareacircle\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\falsesense\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\GrassSeedInc\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\halfcookie\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\hittingtargets\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\JumbledCompass\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\karte\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Kornislav\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Maptiles\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\MirrorImages\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Modulo\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Oddmanout\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Parking\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\pervasiveheartmonitor\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\PizzaCrust\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Ptice\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\quickbrownfox\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\raggedright\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\RealChallenge\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\SecretMessage\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Server\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\SevenWonders\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Soylent\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\StackingCups\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\StandOnZanzibar\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Statistics\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\SumKindOfProblem\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\sync_lists\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\temp1\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\TheAmazingHumanCannonball\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\vauvau\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Volim\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Zamka\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Solved\Trik\OKENVCPP.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OKENVCPP.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
